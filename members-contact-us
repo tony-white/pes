@@ -1,0 +1,773 @@
+<!doctype html>
+<!--[if IE 7]>
+<html class="no-js lt-ie10 lt-ie9 lt-ie8 ie7"><![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie10 lt-ie9 ie8"><![endif]-->
+<!--[if IE 9]>
+<html class="no-js lt-ie10 ie9"><![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js"  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# "><!--<![endif]-->
+<head>
+
+    <!-- meta data -->
+    <meta charset="utf-8" />
+<meta name="referrer" content="no-referrer" />
+<meta name="title" content="Members - contact us | NHSBSA" />
+<meta name="twitter:card" content="summary" />
+<meta name="description" content="Contact information for NHS Pensions for members" />
+<meta name="abstract" content="Contact information for NHS Pensions for members" />
+<meta name="keywords" content="members, contact, pensions, twitter, telephone, call centre, address, complaint, disputes," />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="https://www.nhsbsa.nhs.uk/core/misc/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="members-contact-us" />
+<link rel="canonical" href="members-contact-us" />
+<link rel="shortlink" href="https://www.nhsbsa.nhs.uk/node/1198" />
+
+    <meta name="viewport"
+          content="initial-scale=1.0, width=device-width"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Members - contact us | NHSBSA</title>
+
+    <!-- Stylesheet includes -->
+    <link rel="stylesheet" href="system-status-counter.css?pc0jhh" media="all" />
+<link rel="stylesheet" href="system-status-report-counters.css?pc0jhh" media="all" />
+<link rel="stylesheet" href="system-status-report-general-info.css?pc0jhh" media="all" />
+<link rel="stylesheet" href="cacheflush.menu.css?pc0jhh" media="all" />
+
+
+    <!--[if (gte IE 10)|(!IE)]><!-->
+    <link rel="stylesheet" href="a.css" media="all">
+    <!--<![endif]-->
+    <!--[if lt IE 10]>
+    <link rel="stylesheet" href="/themes/custom/nhsbsa/assets/css/b.css" media="all" />
+    <![endif]-->
+
+    
+    <!-- JavaScript includes -->
+    
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]-->
+
+
+    <!-- Favicons | Icons -->
+    <link rel="apple-touch-icon"      sizes="57x57"     href="https://www.nhsbsa.nhs.uk/themes/custom/nhsbsa/favicons/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon"      sizes="60x60"     href="https://www.nhsbsa.nhs.uk/themes/custom/nhsbsa/favicons/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon"      sizes="72x72"     href="https://www.nhsbsa.nhs.uk/themes/custom/nhsbsa/favicons/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon"      sizes="76x76"     href="https://www.nhsbsa.nhs.uk/themes/custom/nhsbsa/favicons/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon"      sizes="114x114"   href="https://www.nhsbsa.nhs.uk/themes/custom/nhsbsa/favicons/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon"      sizes="120x120"   href="https://www.nhsbsa.nhs.uk/themes/custom/nhsbsa/favicons/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon"      sizes="144x144"   href="https://www.nhsbsa.nhs.uk/themes/custom/nhsbsa/favicons/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon"      sizes="152x152"   href="https://www.nhsbsa.nhs.uk/themes/custom/nhsbsa/favicons/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon"      sizes="180x180"   href="https://www.nhsbsa.nhs.uk/themes/custom/nhsbsa/favicons/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"   href="https://www.nhsbsa.nhs.uk/themes/custom/nhsbsa/favicons/android-chrome-192x192.png">
+    <link rel="icon" type="image/png" sizes="96x96"     href="https://www.nhsbsa.nhs.uk/themes/custom/nhsbsa/favicons/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="32x32"     href="https://www.nhsbsa.nhs.uk/themes/custom/nhsbsa/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16"     href="https://www.nhsbsa.nhs.uk/themes/custom/nhsbsa/favicons/favicon-16x16.png">
+
+
+    <link rel="manifest" href="https://www.nhsbsa.nhs.uk/themes/custom/nhsbsa/favicons/manifest.json">
+    <link rel="SHORTCUT ICON" href="favicon.ico">
+    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="icon" type="image/icon" href="favicon.ico">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/themes/custom/nhsbsa/favicons/mstile-144x144.png">
+    <meta name="msapplication-config" content="/themes/custom/nhsbsa/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+</head>
+
+<body class="green path-node page-node-type-content-page" id="top">
+    <!-- Google Tag Manager -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WKVTR8" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-WKVTR8');</script>
+    <!-- End Google Tag Manager -->
+    <!-- Accessibility links -->
+    <div id="skip-to-content">
+        <a href="members-contact-us#main-content" class="element-invisible element-focusable" title="Skip to main content" accesskey="c">Skip
+            to main content</a>
+        <a href="members-contact-us#main-footer" class="element-invisible element-focusable" title="Skip to footer" accesskey="f">Skip to
+            footer</a>
+    </div>
+
+    
+    <div class="page">
+       <header id="main-header" class="main_header">
+      <div class="container">
+        <div class="header-row">
+          
+    <div class="header-logo site-logo">
+    <a href="https://www.nhsbsa.nhs.uk/" title="Home" rel="home" class="site-logo-link">
+      <img src="NHSBSA-alternative1.gif" 
+           width="356px" 
+           height="77px" 
+           alt="NHS Business Services Authority" 
+           class="site-logo-image  site-logo-image-alternative" />
+      <span class="sr-only">NHSBSA </span>
+    </a>
+  </div>
+  
+
+        </div>
+      </div>
+    </header>
+   
+  <main id="main-content" class="main_body"> 
+                
+              <div class="content-header sm-mt-40 mt-20">
+        <div class="container">
+          <div class="row is-just-between sm-is-direction-row is-direction-column ie-text-right">
+                                      <div class="column sm-is-none is-auto ie-is-inline-block ie-is-8 ie-text-left">
+                                  <div class="service-name-wrapper">
+                    <a href="https://www.nhsbsa.nhs.uk/nhs-pensions" class="service-name"> NHS Pensions</a>
+                  </div>
+                                <button class="js-search-toggle search-toggle show-from-sm ie-is-hidden"><span class="sr-only">Toggle search</span>
+                </button>
+              </div>
+                                                  <div class="column sm-is-none is-auto search-column ie-is-inline-block ie-is-4">
+                <div class="js-search-controller search-controller">
+                  <div class="js-search-container">
+                    <div class="views-exposed-form bef-exposed-form content_page" data-drupal-selector="views-exposed-form-search-search-block" id="block-search-block" data-block-plugin-id="views_exposed_filter_block:search-search_block" title="Members - contact us" URL="www.nhsbsa.nhs.uk%2Fmember-hub%2Fmembers-contact-us">
+  
+    
+      <div class="search-block-form searchBar">
+    <form block="block-search-block" action="https://www.nhsbsa.nhs.uk/search" method="get" id="views-exposed-form-search-search-block" accept-charset="UTF-8">
+        <div class="js-form-item form-item js-form-type-textfield form-item-aggregated-field js-form-item-aggregated-field">
+      <label for="edit-aggregated-field">Search</label>
+        <input placeholder="Search the NHSBSA website" data-drupal-selector="edit-aggregated-field" type="text" id="edit-aggregated-field" name="aggregated_field" value="" size="30" maxlength="128" class="form-text" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><div class="submit-controller">
+    <button  data-drupal-selector="edit-submit-search" type="submit" id="edit-submit-search" value="Search" class="button js-form-submit form-submit"><span class="submit-inner">Search</span></button>
+</div>
+</div>
+
+
+    </form>
+</div>
+
+  </div>
+
+                  </div>
+                </div>
+              </div>
+                      </div>
+
+                                <div class="row md-mb-40 mb-20 md-mt--10">
+              <div class="column is-12">
+                <div id="block-custommenu" data-block-plugin-id="custom_menu_block" class="content_page" title="Members - contact us" URL="www.nhsbsa.nhs.uk%2Fmember-hub%2Fmembers-contact-us">
+  
+    
+      
+            <nav class="service-nav hide-from-md">
+    <ul block="block-custommenu" class="nav">
+                    <li class="nav-item nav-item--expanded menu-item--active-trail">
+        <a href="https://www.nhsbsa.nhs.uk/member-hub" title="Member Hub" data-drupal-link-system-path="node/940">Member Hub</a>
+                              <ul class="nav">
+                    <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/member-hub/getting-estimate-your-pension" title="Getting an estimate of your pension" data-drupal-link-system-path="node/1190">Getting an estimate of your pension</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/member-hub/applying-your-pension" title="Applying for your pension" data-drupal-link-system-path="node/1193">Applying for your pension</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/member-hub/leaving-or-taking-break-scheme" title="Leaving or taking a break from the Scheme" data-drupal-link-system-path="node/1195">Leaving or taking a break from the Scheme</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/member-hub/information-practitioner-locum-and-non-gp" title="Information for Practitioner, Locum and Non-GP" data-drupal-link-system-path="node/1197">Information for Practitioner, Locum and Non-GP</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/member-hub/membership-nhs-pension-scheme" title="Membership of the NHS Pension Scheme" data-drupal-link-system-path="node/1043">Membership of the NHS Pension Scheme</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/member-hub/bereavements" title="Bereavements" data-drupal-link-system-path="node/5200">Bereavements</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/member-hub/nominations" title="Nominations" data-drupal-link-system-path="node/5190">Nominations</a>
+              </li>
+                <li class="nav-item menu-item--collapsed">
+        <a href="https://www.nhsbsa.nhs.uk/member-hub/increasing-your-pension" title="Increasing your pension" data-drupal-link-system-path="node/1165">Increasing your pension</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/member-hub/annual-allowance" title="Annual Allowance" data-drupal-link-system-path="node/1955">Annual Allowance</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/member-hub/cost-being-scheme" title="Cost of being in the Scheme" data-drupal-link-system-path="node/1155">Cost of being in the Scheme</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/member-hub/divorce-or-dissolution-civil-partnership-and-your-pension" title="Divorce or dissolution of a civil partnership and your pension" data-drupal-link-system-path="node/1196">Divorce or dissolution of a civil partnership and your pension</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/member-hub/joining-scheme" title="Joining the Scheme" data-drupal-link-system-path="node/942">Joining the Scheme</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/member-hub/transferring-scheme" title="Transferring into the Scheme" data-drupal-link-system-path="node/1164">Transferring into the Scheme</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/member-hub/lifetime-allowance" title="Lifetime Allowance" data-drupal-link-system-path="node/1166">Lifetime Allowance</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/member-hub/useful-information" title="Useful information" data-drupal-link-system-path="node/1038">Useful information</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/member-hub/change-your-personal-details" title="Change your personal details" data-drupal-link-system-path="node/5202">Change your personal details</a>
+              </li>
+                <li class="nav-item menu-item--active-trail">
+        <a href="members-contact-us" title="Members - contact us" data-drupal-link-system-path="node/1198" class="is-active">Members - contact us</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/member-hub/member-news" title="Member news" data-drupal-link-system-path="node/2652">Member news</a>
+              </li>
+            </ul>
+      
+              </li>
+                <li class="nav-item nav-item--expanded">
+        <a href="https://www.nhsbsa.nhs.uk/employer-hub" title="Employer Hub" data-drupal-link-system-path="node/1068">Employer Hub</a>
+                              <ul class="nav">
+                    <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/employer-hub/pensions-online" title="Pensions Online" data-drupal-link-system-path="node/1070">Pensions Online</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/employer-hub/employer-forms" data-drupal-link-system-path="node/3710">Employer forms</a>
+              </li>
+                <li class="nav-item nav-item--expanded">
+        <a href="https://www.nhsbsa.nhs.uk/employer-hub/technical-guidance" title="Technical guidance" data-drupal-link-system-path="node/1464">Technical guidance</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/employer-hub/access-nhs-pension-scheme" title="Access to the NHS Pension Scheme" data-drupal-link-system-path="node/3173">Access to the NHS Pension Scheme</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/employer-hub/nhs-pensions-finance" title="NHS Pensions Finance" data-drupal-link-system-path="node/1323">NHS Pensions Finance</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/employer-hub/electronic-staff-record-esr" title="Electronic Staff Record (ESR)" data-drupal-link-system-path="node/1282">Electronic Staff Record (ESR)</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/employer-hub/pension-events-calendar" data-drupal-link-system-path="node/3746">Pension events calendar</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/employer-hub/nhs-pensions-employer-resources" title="Resources to help employers and their members" data-drupal-link-system-path="node/4931">Resources</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/employer-hub/stakeholder-engagement-team" title="Stakeholder Engagement Team" data-drupal-link-system-path="node/5187">Stakeholder Engagement Team</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/employer-hub/employers-contact-us" title="Employers - contact us" data-drupal-link-system-path="node/1283">Employers - contact us</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/employer-hub/employer-news" title="Employer news" data-drupal-link-system-path="node/2653">Employer news</a>
+              </li>
+            </ul>
+      
+              </li>
+                <li class="nav-item nav-item--expanded">
+        <a href="https://www.nhsbsa.nhs.uk/pensioner-hub" data-drupal-link-system-path="node/5459">Pensioner Hub</a>
+                              <ul class="nav">
+                    <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/pensioner-hub/bereavement" title="Bereavement" data-drupal-link-system-path="node/5303">Bereavement</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/pensioner-hub/change-circumstances" title="Change of circumstances" data-drupal-link-system-path="node/5332">Change of circumstances</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/pensioner-hub/guaranteed-minimum-pension-gmp" title="Guaranteed Minimum Pension (GMP)" data-drupal-link-system-path="node/5310">Guaranteed Minimum Pension (GMP)</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/pensioner-hub/re-employment" title="Re-employment" data-drupal-link-system-path="node/5456">Re-employment</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/pensioner-hub/reasons-overpayment" title="Reasons for overpayment" data-drupal-link-system-path="node/5306">Reasons for overpayment</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/pensioner-hub/useful-information-pensioners" title="Useful information for pensioners" data-drupal-link-system-path="node/5304">Useful information for pensioners</a>
+              </li>
+                <li class="nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/pensioner-hub/pensioners-contact-us" title="Pensioners - contact us" data-drupal-link-system-path="node/5305">Pensioners - contact us</a>
+              </li>
+            </ul>
+      
+              </li>
+            </ul>
+    </nav>
+      
+
+
+  </div>
+
+                <nav class="service-nav-mobile show-from-md ie-is-hidden">
+                  <div class="js-mobile-menu-container is-hidden">
+    <nav class="navigation">
+                    
+        <ul class="menu depth-0">
+                                                          <li class="menu-item menu-item--expanded menu-item--active-trail">
+          <a href="https://www.nhsbsa.nhs.uk/member-hub" title="Member Hub" class="link-level-0" data-drupal-link-system-path="node/940">Member Hub</a>
+                              <ul class="menu depth-1">
+                                                          <li class="menu-item">
+          <a href="https://www.nhsbsa.nhs.uk/member-hub/getting-estimate-your-pension" title="Getting an estimate of your pension" class="link-level-1" data-drupal-link-system-path="node/1190">Getting an estimate of your pension</a>
+                  </li>
+                                                                <li class="menu-item">
+          <a href="https://www.nhsbsa.nhs.uk/member-hub/applying-your-pension" title="Applying for your pension" class="link-level-1" data-drupal-link-system-path="node/1193">Applying for your pension</a>
+                  </li>
+                                                                <li class="menu-item">
+          <a href="https://www.nhsbsa.nhs.uk/member-hub/leaving-or-taking-break-scheme" title="Leaving or taking a break from the Scheme" class="link-level-1" data-drupal-link-system-path="node/1195">Leaving or taking a break from the Scheme</a>
+                  </li>
+                                                                <li class="menu-item">
+          <a href="https://www.nhsbsa.nhs.uk/member-hub/information-practitioner-locum-and-non-gp" title="Information for Practitioner, Locum and Non-GP" class="link-level-1" data-drupal-link-system-path="node/1197">Information for Practitioner, Locum and Non-GP</a>
+                  </li>
+                                                                <li class="menu-item">
+          <a href="https://www.nhsbsa.nhs.uk/member-hub/membership-nhs-pension-scheme" title="Membership of the NHS Pension Scheme" class="link-level-1" data-drupal-link-system-path="node/1043">Membership of the NHS Pension Scheme</a>
+                  </li>
+                                                                <li class="menu-item">
+          <a href="https://www.nhsbsa.nhs.uk/member-hub/bereavements" title="Bereavements" class="link-level-1" data-drupal-link-system-path="node/5200">Bereavements</a>
+                  </li>
+                                                                <li class="menu-item">
+          <a href="https://www.nhsbsa.nhs.uk/member-hub/nominations" title="Nominations" class="link-level-1" data-drupal-link-system-path="node/5190">Nominations</a>
+                  </li>
+                                                                <li class="menu-item menu-item--collapsed">
+          <a href="https://www.nhsbsa.nhs.uk/member-hub/increasing-your-pension" title="Increasing your pension" class="link-level-1" data-drupal-link-system-path="node/1165">Increasing your pension</a>
+                  </li>
+                                                                <li class="menu-item">
+          <a href="https://www.nhsbsa.nhs.uk/member-hub/annual-allowance" title="Annual Allowance" class="link-level-1" data-drupal-link-system-path="node/1955">Annual Allowance</a>
+                  </li>
+                                                                <li class="menu-item">
+          <a href="https://www.nhsbsa.nhs.uk/member-hub/cost-being-scheme" title="Cost of being in the Scheme" class="link-level-1" data-drupal-link-system-path="node/1155">Cost of being in the Scheme</a>
+                  </li>
+                                                                <li class="menu-item">
+          <a href="https://www.nhsbsa.nhs.uk/member-hub/divorce-or-dissolution-civil-partnership-and-your-pension" title="Divorce or dissolution of a civil partnership and your pension" class="link-level-1" data-drupal-link-system-path="node/1196">Divorce or dissolution of a civil partnership and your pension</a>
+                  </li>
+                                                                <li class="menu-item">
+          <a href="https://www.nhsbsa.nhs.uk/member-hub/joining-scheme" title="Joining the Scheme" class="link-level-1" data-drupal-link-system-path="node/942">Joining the Scheme</a>
+                  </li>
+                                                                <li class="menu-item">
+          <a href="https://www.nhsbsa.nhs.uk/member-hub/transferring-scheme" title="Transferring into the Scheme" class="link-level-1" data-drupal-link-system-path="node/1164">Transferring into the Scheme</a>
+                  </li>
+                                                                <li class="menu-item">
+          <a href="https://www.nhsbsa.nhs.uk/member-hub/lifetime-allowance" title="Lifetime Allowance" class="link-level-1" data-drupal-link-system-path="node/1166">Lifetime Allowance</a>
+                  </li>
+                                                                <li class="menu-item">
+          <a href="https://www.nhsbsa.nhs.uk/member-hub/useful-information" title="Useful information" class="link-level-1" data-drupal-link-system-path="node/1038">Useful information</a>
+                  </li>
+                                                                <li class="menu-item">
+          <a href="https://www.nhsbsa.nhs.uk/member-hub/change-your-personal-details" title="Change your personal details" class="link-level-1" data-drupal-link-system-path="node/5202">Change your personal details</a>
+                  </li>
+                                                                <li class="menu-item menu-item--active-trail">
+          <a href="members-contact-us" title="Members - contact us" class="link-level-1 is-active" data-drupal-link-system-path="node/1198">Members - contact us</a>
+                  </li>
+                                                                <li class="menu-item">
+          <a href="https://www.nhsbsa.nhs.uk/member-hub/member-news" title="Member news" class="link-level-1" data-drupal-link-system-path="node/2652">Member news</a>
+                  </li>
+              </ul>
+  
+                  </li>
+                                                                <li class="menu-item">
+          <a href="https://www.nhsbsa.nhs.uk/employer-hub" title="Employer Hub" class="link-level-0" data-drupal-link-system-path="node/1068">Employer Hub</a>
+                              <ul class="menu depth-1">
+                                                                                                                                                                                        </ul>
+  
+                  </li>
+                                                                <li class="menu-item">
+          <a href="https://www.nhsbsa.nhs.uk/pensioner-hub" class="link-level-0" data-drupal-link-system-path="node/5459">Pensioner Hub</a>
+                              <ul class="menu depth-1">
+                                                                                                                        </ul>
+  
+                  </li>
+              </ul>
+  
+
+
+            </nav>
+</div>
+
+                  <button type="button" name="toggleMobileNav"
+                          class="menu-toggle js-menu-toggle">Members - contact us</button>
+                </nav>
+              </div>
+            </div>
+                  </div>
+      </div>
+    
+          <div class="contextual-tabs">
+        
+      </div>
+    
+        <div class="content-row">
+      <div class="container tablet-mb-65 mb-25">
+        <div class="row mt--15">
+          <div class="column is-block lg-is-8 is-12 ie-is-8">
+            
+<div id="block-pagetitle" data-block-plugin-id="page_title_block" class="content_page" title="Members - contact us" URL="www.nhsbsa.nhs.uk%2Fmember-hub%2Fmembers-contact-us">
+  
+    
+      
+  <h1>Members - contact us</h1>
+
+
+  </div>
+<article data-history-node-id="1198" role="article" about="/member-hub/members-contact-us">
+
+  
+    
+
+  
+  <div>
+    
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item"><h2>Queries</h2>
+
+<p>If you have any questions about NHS Pensions, you can contact us by:</p>
+
+<p><strong class="strong">Telephone:</strong> 0300 330 1346<br /><strong class="strong">Outside UK</strong>: +44 191 279 0571<br />
+Monday to Friday, 8am to 6pm</p>
+
+<p><strong class="strong">Email:</strong> <a href="mailto:nhsbsa.pensionsmember@nhsbsa.nhs.uk">nhsbsa.pensionsmember@nhsbsa.nhs.uk</a></p>
+
+<p><strong class="strong">Twitter:</strong> direct message @nhs_pensions</p>
+
+<p><strong class="strong">You can write to:</strong><br />
+NHS Pensions,<br />
+PO Box 2269,<br />
+Bolton,<br />
+BL6 9JS</p>
+
+<p>If you're currently receiving your pension,<strong class="strong"> </strong>you can view contact details at <a href="https://www.nhsbsa.nhs.uk/pensioner-hub/pensioners-contact-us" title="Visit pensioners contact page">https://www.nhsbsa.nhs.uk/pensioner-hub/pensioners-contact-us</a></p>
+
+<p> </p>
+
+<h2>Complaints</h2>
+
+<p>If you wish to complain about any aspect of NHS Pensions, you can contact us by:</p>
+
+<p><strong class="strong">Telephone</strong>: 0300 3301 346</p>
+
+<p>If the helpline have not been able to resolve your complaint, you can contact the Complaints Team by:</p>
+
+<p><strong class="strong">Email:</strong> <a href="mailto:nhsbsa.pensionscomplaints@nhs.net">nhsbsa.pensionscomplaints@nhs.net</a></p>
+
+<p>This email account is only for customers to register complaints. Any general queries sent through to the complaints email account will not be responded to.</p>
+
+<p>For more information about complaints read <a href="https://www.nhsbsa.nhs.uk/sites/default/files/2017-05/DRP1%20%28V9%29%20Online%20-%2005.2017_0.pdf" title="Internal Dispute Resolution Stage 1 application form (DRP1)">NHS Pension Scheme and NHS Injury Benefits Scheme - Complaints and disputes procedures (PDF: 201KB)</a>. This contains a 'Complaints and disputes application form' for you to complete and submit. </p>
+
+<h3>Complaints relating to an ill health application</h3>
+
+<p>If your complaint relates to an ill health application then you have the opportunity to view the Scheme's medical adviser's report before it's sent to NHS Pensions.<br />
+ </p>
+
+<h4>If your ill health application was submitted after 13 February 2018</h4>
+
+<p>We'll use the decision stated on the member declaration of the AW33E or AW240 unless you formally inform us otherwise.<br />
+ </p>
+
+<h4>If your ill health application was submitted before 13 February 2018</h4>
+
+<p>To see a copy of your report before NHS Pensions, make this clear on your complaint to us.</p>
+</div>
+      
+  </div>
+
+</article>
+<div id="block-contentsubchildrenblock" data-block-plugin-id="content_sub_children_block" class="content_page" title="Members - contact us" URL="www.nhsbsa.nhs.uk%2Fmember-hub%2Fmembers-contact-us">
+  
+    
+      
+  </div>
+<div id="block-socialsharinglinks" data-block-plugin-id="social_sharing_links" class="content_page" title="Members - contact us" URL="www.nhsbsa.nhs.uk%2Fmember-hub%2Fmembers-contact-us">
+  
+    
+      <div class="js-shareThisPage share-this-page">
+    <div class="js-shareLinksWrapper">
+        <div class="share-links-wrapper">
+
+            <!-- Sharingbutton Facebook -->
+            <a class="share--link" href="https://facebook.com/sharer/sharer.php?u=https://www.nhsbsa.nhs.uk/member-hub/members-contact-us" target="_blank" aria-label="">
+                <span class="share--link-span share--link-facebook"></span>
+                <span class='share--link-text sr-only' aria-hidden="true">Share on facebook</span>
+            </a>
+
+            <!-- Sharingbutton Twitter -->
+            <a class="share--link" href="https://twitter.com/intent/tweet/?text=Members - contact us&amp;url=https://www.nhsbsa.nhs.uk/member-hub/members-contact-us" target="_blank" aria-label="">
+                <span class="share--link-span share--link-twitter"></span>
+                <span class='share--link-text sr-only' aria-hidden="true">Share on Twitter</span>
+            </a>
+
+            <!-- Sharingbutton LinkedIn -->
+            <a class="share--link" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.nhsbsa.nhs.uk/member-hub/members-contact-us&amp;title=Members - contact us&amp;summary=Members - contact us&amp;source=https://https://www.nhsbsa.nhs.uk/member-hub/members-contact-us" target="_blank" aria-label="">
+                <span class="share--link-span share--link-linkedin"></span>
+                <span class='share--link-text sr-only' aria-hidden="true">Share on LinkedIn</span>
+            </a>
+
+        </div>
+    </div>
+</div>
+  </div>
+
+
+          </div>
+                                                      <div class="column is-block is-normal lg-is-4 is-12 ie-is-4">
+                        <div class="row is-direction-column">
+                            <div class="column is-block is-normal is-12 ie-is-12 hide-from-md">
+        <nav class="breadcrumb sidebar-nav" role="navigation" aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
+    <ul>
+              <li class="menu-item level-0 menu-item--expanded">
+                      <a href="https://www.nhsbsa.nhs.uk/member-hub">Member Hub</a>
+                  </li>
+              <li class="menu-item">
+                      <a href="https://www.nhsbsa.nhs.uk/member-hub/getting-estimate-your-pension">Getting an estimate of your pension</a>
+                  </li>
+              <li class="menu-item">
+                      <a href="https://www.nhsbsa.nhs.uk/member-hub/applying-your-pension">Applying for your pension</a>
+                  </li>
+              <li class="menu-item">
+                      <a href="https://www.nhsbsa.nhs.uk/member-hub/leaving-or-taking-break-scheme">Leaving or taking a break from the Scheme</a>
+                  </li>
+              <li class="menu-item">
+                      <a href="https://www.nhsbsa.nhs.uk/member-hub/information-practitioner-locum-and-non-gp">Information for Practitioner, Locum and Non-GP</a>
+                  </li>
+              <li class="menu-item">
+                      <a href="https://www.nhsbsa.nhs.uk/member-hub/membership-nhs-pension-scheme">Membership of the NHS Pension Scheme</a>
+                  </li>
+              <li class="menu-item">
+                      <a href="https://www.nhsbsa.nhs.uk/member-hub/bereavements">Bereavements</a>
+                  </li>
+              <li class="menu-item">
+                      <a href="https://www.nhsbsa.nhs.uk/member-hub/nominations">Nominations</a>
+                  </li>
+              <li class="menu-item">
+                      <a href="https://www.nhsbsa.nhs.uk/member-hub/increasing-your-pension">Increasing your pension</a>
+                  </li>
+              <li class="menu-item">
+                      <a href="https://www.nhsbsa.nhs.uk/member-hub/annual-allowance">Annual Allowance</a>
+                  </li>
+              <li class="menu-item">
+                      <a href="https://www.nhsbsa.nhs.uk/member-hub/cost-being-scheme">Cost of being in the Scheme</a>
+                  </li>
+              <li class="menu-item">
+                      <a href="https://www.nhsbsa.nhs.uk/member-hub/divorce-or-dissolution-civil-partnership-and-your-pension">Divorce or dissolution of a civil partnership and your pension</a>
+                  </li>
+              <li class="menu-item">
+                      <a href="https://www.nhsbsa.nhs.uk/member-hub/joining-scheme">Joining the Scheme</a>
+                  </li>
+              <li class="menu-item">
+                      <a href="https://www.nhsbsa.nhs.uk/member-hub/transferring-scheme">Transferring into the Scheme</a>
+                  </li>
+              <li class="menu-item">
+                      <a href="https://www.nhsbsa.nhs.uk/member-hub/lifetime-allowance">Lifetime Allowance</a>
+                  </li>
+              <li class="menu-item">
+                      <a href="https://www.nhsbsa.nhs.uk/member-hub/useful-information">Useful information</a>
+                  </li>
+              <li class="menu-item">
+                      <a href="https://www.nhsbsa.nhs.uk/member-hub/change-your-personal-details">Change your personal details</a>
+                  </li>
+              <li class="menu-item active">
+                      <a href="members-contact-us">Members - contact us</a>
+                  </li>
+              <li class="menu-item">
+                      <a href="https://www.nhsbsa.nhs.uk/member-hub/member-news">Member news</a>
+                  </li>
+          </ul>
+  </nav>
+
+
+  </div>
+
+  <div class="column is-normal is-12 ie-is-12"><div class="social-links-block has-1-items"><span>Follow us</span><ul class="social-list"><li><a href="https://twitter.com/nhs_pensions" title="Go to Twitter NHS Pensions" target="_blank">Twitter NHS Pensions</a></li></ul></div></div><div class="column is-normal is-12 ie-is-12"><div class="question-block"><h3>Got a question?</h3><ul class="link-list"><li><a href="https://contactcentreservices.nhsbsa.nhs.uk/selfnhsukokb/AskUs_Pensions/template-group.do" target="_blank" title="Go to Visit our knowledge base" class="is-external">Visit our knowledge base</a></li></ul></div></div><div class="column is-normal is-12 ie-is-12"><div class="resource-link-block"><h3>Member Guides</h3><ul class="document-list"><li class="pdf">
+                <a href="https://www.nhsbsa.nhs.uk/sites/default/files/2018-03/1995-2008%20Members%20Guide%20%28V21%29%2003.2018.pdf" title="Go to 1995/2008 Member Guide">1995/2008 Member Guide <span class="size">(1.73MB)</span></a></li><li class="pdf">
+                <a href="https://www.nhsbsa.nhs.uk/sites/default/files/2018-03/1995-2008%20Members%20Guide%20%28V21%29%20print%2003.2018.pdf" title="Go to 1995/2008 Members Guide (printable)">1995/2008 Members Guide (printable) <span class="size">(2.42MB)</span></a></li><li class="pdf">
+                <a href="https://www.nhsbsa.nhs.uk/sites/default/files/2018-03/2015%20Members%20Guide%20%28V9%29%2003.2018.pdf" title="Go to 2015 Member Guide">2015 Member Guide <span class="size">(1.41MB)</span></a></li><li class="pdf">
+                <a href="https://www.nhsbsa.nhs.uk/sites/default/files/2018-03/2015%20Members%20Guide%20%28V9%29%20print%2003.2018_0.pdf" title="Go to 2015 Members Guide (printable)">2015 Members Guide (printable) <span class="size">(1.84MB)</span></a></li><li class="pdf">
+                <a href="https://www.nhsbsa.nhs.uk/sites/default/files/2017-04/Jargon%20Buster%20%28V7%29%2004.2017.pdf" title="Go to Jargon Buster">Jargon Buster <span class="size">(219.15kB)</span></a></li></ul></div></div>
+
+
+                        </div>
+                      </div>
+                                    </div>
+      </div>
+    </div>
+
+              <div id="block-relatedblock" data-block-plugin-id="related_block" class="content_page" title="Members - contact us" URL="www.nhsbsa.nhs.uk%2Fmember-hub%2Fmembers-contact-us">
+  
+    
+      <div class="flexible-content-row"><div class="container tablet-pt-45 pt-25 table-pb-45 pb-25 has-border-top-large"><div class="flexible-content-row-content row"><div class="column sm-is-4 is-12 ie-is-4"><div class="link-list-block"><h3>NHS Pensions videos</h3><ul class="link-list"><li><a href="https://youtu.be/1YO6u3RBnxg?list=PLfGVyv6pTeubwt9tRy1zlVsFNUtWvSmkf" target="_blank" class="is-external" title="Go to NHS Pensions video playlist">NHS Pensions video playlist</a></li></ul></div></div><div class="column sm-is-4 is-12 ie-is-4"><div class="twitter-block"><div class="twitter-header"><h3>Twitter feed</h3><a href="https://twitter.com/nhs_pensions" target="_blank" class="twitter-link"><span class="sr-only">Follow us!</span><i class="icon-Twitter-bird"></i></a></div><div class="tweet"><div class="tweet-thumb"><img alt="NHS Pensions" src="https://pbs.twimg.com/profile_images/778576589873418240/qW4SQBpw_normal.jpg" class="twitter-profile" /></div><div class="tweet-content"><span class="twitter-name"><a href="https://twitter.com/nhs_pensions" title="NHS Pensions">NHS Pensions</a></span><span class="twitter-handle"> @nhs_pensions</span><p>If anyone needs to register a death, ask the registrar about Tell Us Once <a href="https://t.co/OmI3IXrDHv" target="_blank">https://t.co/OmI3IXrDHv</a> <a href="https://t.co/7c6YPy2UYR" target="_blank">https://t.co/7c6YPy2UYR</a></p></div></div><div class="tweet"><div class="tweet-thumb"><img alt="NHS Pensions" src="https://pbs.twimg.com/profile_images/778576589873418240/qW4SQBpw_normal.jpg" class="twitter-profile" /></div><div class="tweet-content"><span class="twitter-name"><a href="https://twitter.com/nhs_pensions" title="NHS Pensions">NHS Pensions</a></span><span class="twitter-handle"> @nhs_pensions</span><p>Will you have enough to meet your financial needs when you retire? #NHSPensions <a href="https://t.co/Q6hxAo8964" target="_blank">https://t.co/Q6hxAo8964</a>… <a href="https://t.co/vyCU6ulZCD" target="_blank">https://t.co/vyCU6ulZCD</a></p></div></div></div></div></div></div></div>
+  </div>
+<div id="block-relatedblock-2" data-block-plugin-id="related_block" class="content_page" title="Members - contact us" URL="www.nhsbsa.nhs.uk%2Fmember-hub%2Fmembers-contact-us">
+  
+    
+      
+  </div>
+<div class="service-area-footer bg-white mr--15 ml--15 pl-20 pr-20 tablet-pt-50 pt-15 tablet-pb-50 pb-15">
+  <div class="container tablet-pb-60 pb-25">
+          <div block="block-service-footer-blocks">  <div class="row view view-service-footer-v1 view-id-service_footer_v1 view-display-id-block_1 js-view-dom-id-fbb243fe9208f97adf483880fdda1bb190649d8e82735ee380f82253d1308df6">
+        <div class="column tablet-is-4 sm-is-6 is-12 ie-is-4">
+  <div class="serviceFooterBlock">
+      <h3 class="serviceFooterBlock-title"><a href="https://www.nhsbsa.nhs.uk/help-us-improve-our-website">Help us improve our website</a></h3>
+      <p>We’re still developing our website based on your feedback, so please tell us what you think.</p>
+      <a href="https://www.nhsbsa.nhs.uk/help-us-improve-our-website" class="serviceFooterBlock-link">Read more</a>
+   </div>
+</div>
+    <div class="column tablet-is-4 sm-is-6 is-12 ie-is-4">
+  <div class="serviceFooterBlock">
+      <h3 class="serviceFooterBlock-title"><a href="https://www.nhsbsa.nhs.uk/employee-section">Employee section</a></h3>
+      <p>This section is to inform employees about their Total Reward and Annual Benefit Statements</p>
+      <a href="https://www.nhsbsa.nhs.uk/employee-section" class="serviceFooterBlock-link">Read more</a>
+   </div>
+</div>
+    <div class="column tablet-is-4 sm-is-6 is-12 ie-is-4">
+  <div class="serviceFooterBlock">
+      <h3 class="serviceFooterBlock-title"><a href="https://www.nhsbsa.nhs.uk/member-hub/applying-your-pension">Applying for your pension</a></h3>
+      <p>Retirement: age, early, redundancy, ill health, flexible, lump sums. How to claim and supporting information.</p>
+      <a href="https://www.nhsbsa.nhs.uk/member-hub/applying-your-pension" class="serviceFooterBlock-link">Read more</a>
+   </div>
+</div>
+
+  </div>
+</div>
+
+      </div>
+</div>
+
+
+    
+    <div class="site-back-to-top-wrapper show-from-md ie-is-hidden">
+      <a href="members-contact-us#top" class="site-back-to-top">Back to top</a>
+    </div>
+
+  </main>  
+
+       <footer id="main-footer" class="main_footer">
+      <div class="footer-wrap">
+        <div class="container">
+          <div class="footer-row footer-primary-row">
+                          
+<div class="header-supporting">
+  <nav role="navigation" aria-labelledby="block-footerprimary-menu"  id="block-footerprimary" data-block-plugin-id="system_menu_block:footer" class="content_page" title="Application deadlines" URL="www.nhsbsa.nhs.uk%2Fnhs-bursary-students%2Fapplication-deadlines">
+            
+    <h2 class="visually-hidden" id="block-footerprimary-menu">Footer primary </h2>
+    
+
+              
+              <ul class="primary-footer-nav">
+              <li class="primary-footer-nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/welcome" title="Go to the homepage of our website" data-drupal-link-system-path="node/18">NHSBSA Home</a>
+              </li>
+          <li class="primary-footer-nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/sitemap" data-drupal-link-system-path="sitemap">Sitemap</a>
+              </li>
+          <li class="primary-footer-nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/our-policies/accessibility" data-drupal-link-system-path="node/887">Accessibility</a>
+              </li>
+          <li class="primary-footer-nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/contact-us" title="Find the contact details for each of our services" data-drupal-link-system-path="node/735">Contact us</a>
+              </li>
+          <li class="primary-footer-nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/what-we-do/work-us" title="Recruitment" data-drupal-link-system-path="node/610">Work for us</a>
+              </li>
+        </ul>
+  
+
+
+      </nav>
+</div>
+
+                        <div class="footer-logo site-logo">
+              <a href="https://www.nhsbsa.nhs.uk/" title="Home" class='site-logo-link'>
+                <img src="NHSBSA-alternative1.gif"
+                     width="329px"
+                     height="71px"
+                     alt="NHS Business Services Authority"
+                     class="site-logo-image"/>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="footer-row footer-secondary-row">
+          <div class="container">
+                          
+<div class="header-supporting">
+  <nav role="navigation" aria-labelledby="block-footersecondary-menu"  id="block-footersecondary" data-block-plugin-id="system_menu_block:footer-secondary" class="services_page" title="NHS Pensions" URL="www.nhsbsa.nhs.uk%2Fnhs-pensions">
+            
+    <h2 class="visually-hidden" id="block-footersecondary-menu">Footer secondary</h2>
+    
+
+              
+              <ul class="secondary-footer-nav">
+              <li class="secondary-footer-nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/our-policies/terms-and-conditions" title="The terms and conditions of our website" data-drupal-link-system-path="node/888">Terms and conditions</a>
+              </li>
+          <li class="secondary-footer-nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/our-policies/privacy" title="Find our privacy policy " data-drupal-link-system-path="node/732">Privacy</a>
+              </li>
+          <li class="secondary-footer-nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/our-policies/cookies" title="Find out more about cookies" data-drupal-link-system-path="node/727">Cookies</a>
+              </li>
+          <li class="secondary-footer-nav-item">
+        <a href="https://www.nhsbsa.nhs.uk/contact-us/freedom-information" title="Freedom of Information" data-drupal-link-system-path="node/726">Freedom of Information</a>
+              </li>
+        </ul>
+  
+
+
+      </nav>
+</div>
+
+                      </div>
+        </div>
+      </div>
+    </footer>
+   </div>
+
+    
+
+    <script>
+        // Toggle class indicating that JS is enabled; used for styling purpose.
+        document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/,'') + ' js';
+    </script>
+
+
+    <noscript>
+        <div class="no-script alert">
+            <p>You currently have <strong>JavaScript disabled</strong> in your web browser, please <strong>enable JavaScript</strong> to view our website as intended.</p>
+            <p><a href="http://www.enable-javascript.com/">Here are the instructions of how to enable JavaScript in your browser.</a></p>
+        </div>
+    </noscript>
+
+        
+
+
+    <script type="text/javascript">
+        var isLoggedIn =  false ;
+    </script>
+
+
+<!-- Custom JS includes -->
+    <!--[if (gte IE 10)|(!IE)]><!-->
+        <script type="text/javascript" defer="defer" src="a.js"></script>
+        <script type="text/javascript" defer="defer" src="https://cdnjs.cloudflare.com/ajax/libs/eqcss/1.2.1/EQCSS.min.js"></script>
+    <!--<![endif]-->
+
+    <!--[if lt IE 10]>
+        <script type="text/javascript" defer="defer" src="src="/themes/custom/nhsbsa/assets/js/html5shiv.js"></script>
+        <script type="text/javascript" defer="defer" src="/themes/custom/nhsbsa/assets/js/b.js"></script>
+
+        <script type="text/javascript">
+            // Fix to render / redraw font icons correctly in IE8
+            var head = document.getElementsByTagName('head')[0],
+                style = document.createElement('style');
+            style.type = 'text/css';
+            style.styleSheet.cssText = ':before,:after{content:none !important';
+            head.appendChild(style);
+            setTimeout(function(){
+                head.removeChild(style);
+            }, 0);
+        </script>
+    <![endif]-->
+
+</body>
+</html>
